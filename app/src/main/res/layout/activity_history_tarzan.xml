@@ -7,6 +7,7 @@
     android:background="#DCEAE8"
     tools:context=".ViewHistory">
 
+
     <TextView
         android:id="@+id/textViewTale"
         android:layout_width="wrap_content"
