@@ -1,0 +1,18 @@
+<resources>
+
+
+    //Title Tales
+    <string-array name="titles" >
+        <item>Tarzan Tale</item>
+
+    </string-array>
+    <string name="app_name">Hello!</string>
+    <string name="button_Start">Get Started!</string>
+    <string name="text_filling">Complete your history</string>
+    <string name="button_Continue">OK</string>
+    <string name="text_title"> Title </string>
+    <string name="text_tale"> Tale</string>
+    <string name="button_NewTale">Retur</string>
+
+
+</resources>
